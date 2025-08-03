@@ -2,7 +2,6 @@ services:
   - type: web
     name: telegram-bot
     env: python
-    buildCommand: "./build.sh"
     startCommand: "python bot_unico.py"
     pythonVersion: 3.11.8
     envVars:
