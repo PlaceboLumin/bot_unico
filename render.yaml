@@ -1,7 +1,15 @@
 services:
   - type: web
-    name: telegram-bot-shop
+    name: telegram-bot
     env: python
     buildCommand: "./build.sh"
     startCommand: "python bot_unico.py"
-    autoDeploy: false
+    envVars:
+      - key: TELEGRAM_TOKEN
+        value: "7480441409:AAEOUNKWWuB2Et3y3u4VR-mpJQR0abCzT88"
+      - key: CLIENT_ID
+        value: "PVjLh2OFuROu46BKUqouMacb96E03H"
+      - key: CLIENT_SECRET
+        value: "bwW136EATmNRkz8OCD04lkzpawTh0C"
+      - key: TELEGRAM_CHANNEL
+        value: "@Promos_Placebo"
