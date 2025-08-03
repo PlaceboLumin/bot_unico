@@ -11,7 +11,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import time
 
-TELEGRAM_TOKEN = os.getenv("7480441409:AAEOUNKWWuB2Et3y3u4VR-mpJQR0abCzT88")
+TELEGRAM_TOKEN = "7480441409:AAEOUNKWWuB2Et3y3u4VR-mpJQR0abCzT88"
 TELEGRAM_CHANNEL = "@Promos_Placebo"
 AFFILIATE_PREFIX = "https://rzekl.com/g/1e8d1144948f503228bf16525dc3e8/?ulp="
 AMAZON_TAG = "placebospromos-20"
