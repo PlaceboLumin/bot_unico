@@ -4,6 +4,7 @@ services:
     env: python
     buildCommand: "./build.sh"
     startCommand: "python bot_unico.py"
+    pythonVersion: 3.11.8
     envVars:
       - key: TELEGRAM_TOKEN
         value: "7480441409:AAEOUNKWWuB2Et3y3u4VR-mpJQR0abCzT88"
