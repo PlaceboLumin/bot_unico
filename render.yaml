@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: telegram-bot-shop
+    env: python
+    buildCommand: "./build.sh"
+    startCommand: "python bot_unico.py"
+    autoDeploy: false
