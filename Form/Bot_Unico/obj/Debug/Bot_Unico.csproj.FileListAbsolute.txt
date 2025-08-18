@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\projetin\Bot_unico\bot_unico\Form\Bot_Unico\bin\Debug\Bot_Unico.exe.config
+C:\Users\user\Desktop\projetin\Bot_unico\bot_unico\Form\Bot_Unico\bin\Debug\Bot_Unico.exe
+C:\Users\user\Desktop\projetin\Bot_unico\bot_unico\Form\Bot_Unico\bin\Debug\Bot_Unico.pdb
+C:\Users\user\Desktop\projetin\Bot_unico\bot_unico\Form\Bot_Unico\obj\Debug\Bot_Unico.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projetin\Bot_unico\bot_unico\Form\Bot_Unico\obj\Debug\Bot_Unico.Form1.resources
+C:\Users\user\Desktop\projetin\Bot_unico\bot_unico\Form\Bot_Unico\obj\Debug\Bot_Unico.Properties.Resources.resources
+C:\Users\user\Desktop\projetin\Bot_unico\bot_unico\Form\Bot_Unico\obj\Debug\Bot_Unico.csproj.GenerateResource.cache
+C:\Users\user\Desktop\projetin\Bot_unico\bot_unico\Form\Bot_Unico\obj\Debug\Bot_Unico.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projetin\Bot_unico\bot_unico\Form\Bot_Unico\obj\Debug\Bot_Unico.exe
+C:\Users\user\Desktop\projetin\Bot_unico\bot_unico\Form\Bot_Unico\obj\Debug\Bot_Unico.pdb

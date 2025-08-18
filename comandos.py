@@ -18,7 +18,6 @@ ali = Aliexpress(conf.AFFILIATE_PREFIX)
 ama = Amazon(conf.AMAZON_TAG)
 mgl = Magalu()
 
-
 class Comandos:  
     def __init__(self):
         self.fila_postagens = []

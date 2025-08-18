@@ -21,3 +21,6 @@ class Aliexpress():
         image_url = image_tag["content"] if image_tag else None
         preco = extrair_preco_com_selenium(url)  # Essa função precisa estar definida em outro lugar
         return title, image_url, preco
+
+
+#Atualizar para a nova versão usando o próprio Aliexpress ao invés do Admited

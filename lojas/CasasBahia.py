@@ -1,0 +1,1 @@
+#Esse aqui eu não façõ nem ideia de como funciona

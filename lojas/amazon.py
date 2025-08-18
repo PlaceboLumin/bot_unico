@@ -43,7 +43,6 @@ class Amazon():
             except:
                 titulo = "Produto sem título"
 
-
             seletor = "span.a-price-whole"
 
             preco = "erro ao encontrar preço"
